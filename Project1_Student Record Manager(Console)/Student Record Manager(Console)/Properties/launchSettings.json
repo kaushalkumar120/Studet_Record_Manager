@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Student Record Manager(Console)": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

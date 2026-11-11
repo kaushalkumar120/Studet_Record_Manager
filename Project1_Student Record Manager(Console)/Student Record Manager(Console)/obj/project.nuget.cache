@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EuSYbaPSbcM=",
+  "success": true,
+  "projectFilePath": "D:\\windows\\Student Record Manager(Console)\\Student Record Manager(Console)\\Student Record Manager(Console).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaush\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.24.2-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.24.2-preview.1.nupkg.sha512"
+  ],
+  "logs": []
+}

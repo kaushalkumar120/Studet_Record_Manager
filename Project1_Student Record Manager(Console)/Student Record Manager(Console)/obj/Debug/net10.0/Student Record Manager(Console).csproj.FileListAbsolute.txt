@@ -1,0 +1,15 @@
+D:\windows\Student Record Manager(Console)\Student Record Manager(Console)\bin\Debug\net10.0\Student Record Manager(Console).exe
+D:\windows\Student Record Manager(Console)\Student Record Manager(Console)\bin\Debug\net10.0\Student Record Manager(Console).deps.json
+D:\windows\Student Record Manager(Console)\Student Record Manager(Console)\bin\Debug\net10.0\Student Record Manager(Console).runtimeconfig.json
+D:\windows\Student Record Manager(Console)\Student Record Manager(Console)\bin\Debug\net10.0\Student Record Manager(Console).dll
+D:\windows\Student Record Manager(Console)\Student Record Manager(Console)\bin\Debug\net10.0\Student Record Manager(Console).pdb
+D:\windows\Student Record Manager(Console)\Student Record Manager(Console)\obj\Debug\net10.0\Student Record Manager(Console).GeneratedMSBuildEditorConfig.editorconfig
+D:\windows\Student Record Manager(Console)\Student Record Manager(Console)\obj\Debug\net10.0\Student Record Manager(Console).AssemblyInfoInputs.cache
+D:\windows\Student Record Manager(Console)\Student Record Manager(Console)\obj\Debug\net10.0\Student Record Manager(Console).AssemblyInfo.cs
+D:\windows\Student Record Manager(Console)\Student Record Manager(Console)\obj\Debug\net10.0\Student Record Manager(Console).csproj.CoreCompileInputs.cache
+D:\windows\Student Record Manager(Console)\Student Record Manager(Console)\obj\Debug\net10.0\Student Record Manager(Console).dll
+D:\windows\Student Record Manager(Console)\Student Record Manager(Console)\obj\Debug\net10.0\refint\Student Record Manager(Console).dll
+D:\windows\Student Record Manager(Console)\Student Record Manager(Console)\obj\Debug\net10.0\Student Record Manager(Console).pdb
+D:\windows\Student Record Manager(Console)\Student Record Manager(Console)\obj\Debug\net10.0\Student Record Manager(Console).genruntimeconfig.cache
+D:\windows\Student Record Manager(Console)\Student Record Manager(Console)\obj\Debug\net10.0\ref\Student Record Manager(Console).dll
+D:\windows\Student Record Manager(Console)\Student Record Manager(Console)\obj\Debug\net10.0\Student .6E762DCA.Up2Date
